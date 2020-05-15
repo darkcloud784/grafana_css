@@ -1,0 +1,7 @@
+@import url(https://gilbn.github.io/theme.park/CSS/themes/grafana/grafana-base.css);
+:root {
+  --main-bg-color:  radial-gradient(at top center, rgba(0, 0, 0, 0), hsla(0, 14%, 18%, 0.2), hsla(0, 18%, 5%, 1) 95%), radial-gradient(at bottom center, rgba(0, 0, 0, 0.15), hsla(0, 14%, 18%, 0.45), hsla(0, 18%, 5%, 0.6)), linear-gradient(to top, #e2c9cc 1%, #e7627d 46%, #b8235a 59%, #801357 71%, #3d1635 84%, #1c1a27 100%);
+  --modal-bg-color: var(--bg-light);
+  --accent-color: #e7627d
+  --button-color: #801357
+}
